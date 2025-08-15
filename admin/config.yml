@@ -3,8 +3,8 @@ backend:
   repo: mdown-kar/coffee-website # replace with your GitHub username/repo
   branch: main
 
-media_folder: "images" # Folder for uploaded images
-public_folder: "./images" # Path used in the site
+media_folder: "./images" # Folder for uploaded images
+public_folder: "/images" # Path used in the site
 
 collections:
   - name: "products"
