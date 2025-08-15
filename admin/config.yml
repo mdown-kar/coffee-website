@@ -4,7 +4,7 @@ backend:
   branch: main
 
 media_folder: "images" # Folder for uploaded images
-public_folder: "/images" # Path used in the site
+public_folder: "./images" # Path used in the site
 
 collections:
   - name: "products"
